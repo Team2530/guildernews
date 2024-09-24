@@ -2,9 +2,6 @@
 
 A list of times [Team 2530: *Inconceivable*](https://frcteam2530.org) has been in the news or other media, sorted by season and event.
 
-## Table of Contents
-{:toc}
-
 ## 2024: Crescendo
 
 * [Robot Reveal](https://youtu.be/blmkpKSAvfo)
